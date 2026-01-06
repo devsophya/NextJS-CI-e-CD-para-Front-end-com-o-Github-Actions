@@ -1,0 +1,20 @@
+{
+  "name": "nextjs-ci-cd-github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/devsophya/NextJS-CI-e-CD-para-Front-end-com-o-Github-Actions.git",
+  "author": "Sophya Damiazo <sophyadamiazodev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^16.1.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
+
